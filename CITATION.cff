@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "sensors-noise: propagation of simulated tracking errors through surrogate safety measures"
+authors:
+  - family-names: Moshfeghi
+    given-names: Sonia
+    orcid: "https://orcid.org/0000-0001-9776-7248"
+    affiliation: "Florida Atlantic University"
+  - family-names: Jang
+    given-names: Jinwoo
+    affiliation: "Florida Atlantic University"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Noise-Aware Learning for Traffic Safety Sensing: Propagation of Simulated Tracking Errors Through Surrogate Safety Measures and Denoising Models"
+  authors:
+    - family-names: Moshfeghi
+      given-names: Sonia
+    - family-names: Jang
+      given-names: Jinwoo
+  journal: "Sensors"
+  year: 2026

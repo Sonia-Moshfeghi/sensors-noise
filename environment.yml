@@ -1,0 +1,13 @@
+name: sensors-noise
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - pytest
+  # Step 3 needs PyTorch. Install the CUDA build matching your GPU driver with the
+  # command from https://pytorch.org/get-started/locally/ (pip, your CUDA version).
